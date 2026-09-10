@@ -11,8 +11,6 @@
 
 AI engineer and researcher building systems that are trustworthy, not just accurate. I build evaluation infrastructure, agentic pipelines, and production AI systems. 3 peer-reviewed papers at EMNLP 2026 and 1 under review at NeurIPS 2026.
 
-| 3 EMNLP papers + 1 NeurIPS (under review) | 80K+ distributed inference runs | 14K+ tables processed | 112 tests shipped | 100% vs 20% on ConflictBench |
-|---|---|---|---|---|
 
 ---
 
@@ -92,7 +90,5 @@ Two-stage pruning framework for image-containing tables. Reduces context by up t
 ## 🎯 Currently open to
 
 `AI Engineer` `ML Engineer` `FDE / Solutions Engineer` `SDE` `Data Scientist`
-
-Full-time · On OPT · Open to relocation anywhere in the US · Family in SF
 
 📨 gnajpand@asu.edu · gauravnajpande0604@gmail.com
