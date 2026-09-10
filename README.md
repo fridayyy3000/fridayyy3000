@@ -9,9 +9,9 @@
 
 ---
 
-AI engineer and researcher building systems that are trustworthy, not just accurate. I build evaluation infrastructure, agentic pipelines, and production AI systems. 4 peer-reviewed papers at EMNLP and NeurIPS in a single year.
+AI engineer and researcher building systems that are trustworthy, not just accurate. I build evaluation infrastructure, agentic pipelines, and production AI systems. 3 peer-reviewed papers at EMNLP 2026 and 1 under review at NeurIPS 2026.
 
-| 4 papers (EMNLP + NeurIPS) | 80K+ distributed inference runs | 14K+ tables processed | 112 tests shipped | 100% vs 20% on ConflictBench |
+| 3 EMNLP papers + 1 NeurIPS (under review) | 80K+ distributed inference runs | 14K+ tables processed | 112 tests shipped | 100% vs 20% on ConflictBench |
 |---|---|---|---|---|
 
 ---
@@ -54,7 +54,7 @@ Three-stage agentic pipeline: probe-based issue detection via synthetic SQL quer
 ### DRAGON — VLM Evidence Grounding Benchmark
 ![VLM](https://img.shields.io/badge/-VLM-EF9F27)
 ![Evaluation](https://img.shields.io/badge/-Evaluation-639922)
-![NeurIPS 2026](https://img.shields.io/badge/-NeurIPS_2026-D4537E)
+![NeurIPS 2026](https://img.shields.io/badge/-NeurIPS_2026_(Under_Review)-D4537E)
 
 Evaluation framework isolating evidence localization from answer prediction across eight VLM architectures. **80,000+ inference runs** on GCP and HPC clusters. 2,445-instance human-verified test set.
 
