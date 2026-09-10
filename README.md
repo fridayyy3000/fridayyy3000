@@ -1,6 +1,6 @@
 # Hi, I'm Gaurav Najpande 👋
 
-**MS Data Science, Analytics & Engineering @ ASU · CoRAL Lab · Tempe, AZ**
+**MS Data Science, Analytics & Engineering @ ASU · CoRAL Lab ·**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-gauravnajpande-blue?style=flat&logo=linkedin)](https://linkedin.com/in/gauravnajpande/)
 [![Website](https://img.shields.io/badge/Portfolio-Website-1DA1F2?style=flat&logo=google-chrome)](https://fridayyy3000.github.io/gaurav.najpande/)
