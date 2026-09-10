@@ -73,17 +73,17 @@ Two-stage pruning framework for image-containing tables. Reduces context by up t
 
 ## 🛠 Tech Stack
 
-**Languages** — Python · TypeScript · C++ · SQL · R · Bash
-
-**AI / ML** — PyTorch · Transformers · SFT · GRPO · LoRA · RAG · Prompt Engineering · Model Evaluation
-
-**LLM Infra** — MCP · SSE · Zod · Vertex AI · Gemini · AWS Bedrock · Agent Architectures
-
-**Cloud & DevOps** — AWS (S3, EC2, Redshift, Bedrock) · GCP (Cloud Run, Vertex AI) · Docker · Kubernetes · SLURM · CI/CD
-
-**Data** — Spark · Spark SQL · Airflow · PostgreSQL · MySQL · SQLite · pandas · NumPy
-
-**Frontend & Tools** — React · Vitest · Tableau · Power BI · Salesforce CRM · Streamlit · Git · Linux
+💻 **Languages** — Python · TypeScript · C++ · SQL · R · Bash
+ 
+🧠 **AI / ML** — PyTorch · Transformers · SFT · GRPO · LoRA · RAG · Prompt Engineering · Model Evaluation
+ 
+⚡ **LLM Infra** — MCP · SSE · Zod · Vertex AI · Gemini · AWS Bedrock · Agent Architectures
+ 
+☁️ **Cloud & DevOps** — AWS (S3, EC2, Redshift, Bedrock) · GCP (Cloud Run, Vertex AI) · Docker · Kubernetes · SLURM · CI/CD
+ 
+🗄️ **Data** — Spark · Spark SQL · Airflow · PostgreSQL · MySQL · SQLite · pandas · NumPy
+ 
+🎨 **Frontend & Tools** — React · Vitest · Tableau · Power BI · Salesforce CRM · Streamlit · Git · Linux
 
 ---
 
